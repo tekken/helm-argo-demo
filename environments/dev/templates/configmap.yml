@@ -9,4 +9,4 @@ metadata:
 data:
   repositories: |
     - name: myrepo
-      url: https://example.com/charts
+      url: oci://demo.goharbor.io/vision
