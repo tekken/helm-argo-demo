@@ -25,4 +25,4 @@ appVersion: "1.16.0"
 dependencies:
 - name: vn-argocd
   version: "0.1.0"
-  repository: "oci://demo.goharbor.io/vision"
+  repository: "@myrepo"
